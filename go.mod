@@ -1,4 +1,4 @@
-module github.com/acheong08/ChatGPTProxy
+module ChatGPTProxy
 
 go 1.20
 
